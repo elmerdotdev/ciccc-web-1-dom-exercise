@@ -1,4 +1,7 @@
-# DOM Exercise
+# Web 1 - DOM Exercise
 
-Try to complete all 5 exercises.
-You can use this repository for reference: [DOM Lecture](https://github.com/elmerdotdev/e-0923-dom)
+## Instructions
+
+1. Clone the repository to your local machine.
+2. Complete all 5 exercises listed on the HTML file. You can only work on the JS file.
+3. Once you are done, commit and push your changes.
